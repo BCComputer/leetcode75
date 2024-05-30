@@ -1,4 +1,4 @@
-package org.leetcode.KidsWithGreatestNumCandies;
+package org.leetcode.kidswithgreatestnumcandles;
 
 import java.util.ArrayList;
 import java.util.List;
